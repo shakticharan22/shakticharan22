@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakticharan22
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning MSc FinTech
+- 🌱 I’m currently learning MSc FinTech (Data Analytics)
 - 💞️ I’m looking to collaborate on new small projects or internships
 - 📫 How to reach me shakticharan22@gmail.com
 
